@@ -1,0 +1,22 @@
+# Build
+build/
+cmake-build-*/
+out/
+*.user
+*.pro.user
+CMakeLists.txt.user
+
+# Qt generated
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.qmlc
+
+# Database
+*.db
+tasks.db
+
+# IDE
+.vscode/
+.idea/
+*~

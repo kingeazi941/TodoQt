@@ -83,3 +83,26 @@ TodoQt/
 
 └── CMakeLists.txt
 
+## Screenshots
+### Main Window
+![Main Window](screenshots/Mainwindow.png)
+
+### Edit Task Dialog
+![Edit Task](screenshots/edit.png)
+
+### Filters
+![Filters](screenshots/Filters.png)
+
+## Future Improvements
+- Search functionality
+- Categories / tags
+- Export to CSV
+- Dark theme
+- System tray notifications for overdue tasks
+
+## Author
+**Afun Ezekiel**
+
+
+## License
+This project is open source and available under the MIT License.
